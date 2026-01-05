@@ -1,5 +1,11 @@
-
-
+/* 
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+ */
 function pattern(N){
   for(let i=0;i<=N;i++){
     let row = ""
